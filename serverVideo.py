@@ -3,7 +3,7 @@ from threading import Thread
 import struct
 
 HOST = input("Enter Host IP\n")
-PORT = 3000
+PORT = 80
 lnF = 640*480*3
 CHUNK = 1024
 addresses = {}
