@@ -7,7 +7,7 @@ import zlib
 import struct
 
 HOST = input("Enter Server IP\n")
-PORT = 3000
+PORT = 80
 
 CHUNK=1024
 lnF = 640*480*3
